@@ -33,3 +33,7 @@
 
 - `osint-atlas/` — статические файлы приложения: `index.html`, `app.js`, `dorks.js`, `data.js` и `assets/`.
 - `.github/workflows/deploy-pages.yml` — публикация папки `osint-atlas/` на GitHub Pages.
+## Контакты
+
+- Telegram: [@ceolika](https://t.me/ceolika)
+- Proton Mail: [inet_anon1@proton.me](mailto:inet_anon1@proton.me)
